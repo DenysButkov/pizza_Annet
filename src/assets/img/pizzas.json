@@ -1,0 +1,102 @@
+ [
+    {
+      "id": 0,
+      "imageUrl": "https://github.com/DenysButkov/second/raw/main/img_pizza/paperonni.png",
+      "title": "Paperoni",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 8.50,
+      "category": 1, 
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://github.com/DenysButkov/second/raw/main/img_pizza/kvatro%20formadgi.png",
+      "title": "Kvatro formadgi",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 11,
+      "category": 5,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://github.com/DenysButkov/second/raw/main/img_pizza/bavaria.png",
+      "title": "Bavaria",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 10,
+      "category": 3,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://github.com/DenysButkov/second/raw/main/img_pizza/toskana.png",
+      "title": "Toskana",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 11.50,
+      "category": 1,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://github.com/DenysButkov/second/raw/main/img_pizza/el%20-%20mochellano.png",
+      "title": "El-machellano",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 12,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://github.com/DenysButkov/second/raw/main/img_pizza/selmon.png",
+      "title": "Selmon",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 13.50,
+      "category": 4,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://github.com/DenysButkov/second/raw/main/img_pizza/americana.png",
+      "title": "Americana",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 7.50,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://github.com/DenysButkov/second/raw/main/img_pizza/margarita.png",
+      "title": "Margarita",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 6.50,
+      "category": 2,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://github.com/DenysButkov/second/raw/main/img_pizza/kaprichiozzi.png",
+      "title": "Kapriozzi",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 10,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://github.com/DenysButkov/second/raw/main/img_pizza/surena.png",
+      "title": "Surena",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 10,
+      "category": 2,
+      "rating": 7
+    }
+  ]
